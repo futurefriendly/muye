@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: "問津書院"
-email: "3290454918@qq.com"
-description: "@帝都，一群愛學習愛聚會的大叔和小鮮肉。"
+title: "木叶教育"
+email: "ruibin_edu@foxmail.com"
+description: "木叶教育"
 description_en: "Love Chinese tranditional culture, Love design."
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://www.muyeedu.com" # the base hostname & protocol for your site
+url: "https://www.muyeedu.com" # the base hostname & protocol for your site
 twitter_username: futurefriendly
 github_username:  futurefriendly
 
