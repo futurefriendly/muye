@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<div id="pageId" title="1"></div>
+<div class="detailarea">
+    <div class="inner">
+        <h3>活動</h3>
+        <div class="info">
+        </div>
+        <ul class="notelist clear">
+            {% for post in site.posts %}
+            {% if post.category contains 'activity' %}
+            <li class="item">
+                {{ post.schedule_t }}, {{ post.schedule_m }} {{ post.schedule_d }}, {{ post.schedule_y }}, <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </li>
+            {% endif %}
+            {% endfor %}
+        </ul>
+
+        <p class="rss-subscribe tx_c">
+            <span class="btn btn2" style="display:inline-block">
+                <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS訂閱</a>
+            </span>
+        </p>
+
+    </div>
+</div>

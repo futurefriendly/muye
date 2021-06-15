@@ -1,0 +1,225 @@
+
+/* 表单元素
+----------------------------------------------------------------*/
+
+.inputTxt{ position:relative; background:#fff;}
+
+.inputTxt input,
+.inputTxt textarea,
+.inputTxt select{ box-sizing:border-box; width:100%; height:44px; padding:10px; color:#666; border:#b3b3b3 1px solid; background:none; font:16px/1.5 Helvetica,Arial,sans-serif; border-radius:0;
+    -webkit-appearance:none;
+    appearance:none;
+}
+
+.inputTxt input:focus,
+.inputTxt textarea:focus,
+.inputTxt select:focus{ border-color:#666}
+
+.inputTxt .arr{ position:absolute; right:3%; top:50%; margin-top:-4px; border-width:8px 5px 0; border-color:#333 transparent transparent transparent; border-style:solid dashed dashed dashed; pointer-events:none;}
+
+.inputCheck{ display:inline-block; vertical-align:middle; cursor:pointer;}
+.inputCheck input{ vertical-align:middle}
+.inputCheck input[type="radio"],
+.inputCheck input[type="checkbox"]{ width:20px; height:20px;
+    background:url(../../img/input_2x_151027.png) 0 0 no-repeat;
+    background-image:-webkit-image-set(url(../../img/input_151027.png) 1x,url(../../img/input_2x_151027.png) 2x);
+    background-size:83px 20px;
+}
+.inputCheck input[type="radio"]:checked{ background-position:-21px 0}
+.inputCheck input[type="checkbox"]{ background-position:-42px 0}
+.inputCheck input[type="checkbox"]:checked{ background-position:-63px 0}
+
+/* 按钮
+----------------------------------------------------------------*/
+
+/* 按钮 */
+.btn{ display:block;}
+.btn a,
+.btn input,
+.btn button{ display:block; width:100%; padding-left:15px; padding-right:15px; border:none; line-height:1.5em; text-align:center; cursor:pointer; border-radius:0;
+    -webkit-box-sizing:border-box;
+    box-sizing:border-box;
+}
+.btn a:hover{ text-decoration:none}
+.btn input,
+.btn button{
+    -webkit-appearance:none;
+    appearance:none;
+}
+
+.e_btn_inb{ display:inline-block; vertical-align:middle}
+.e_btn_inb a,
+.e_btn_inb input,
+.e_btn_inb button{ display:inline-block; width:auto; vertical-align:top}
+
+.btn1{}
+.btn1 a,
+.btn1 a:active,
+.btn1 input,
+.btn1 button{ padding-top:8px; padding-bottom:8px; font-size:1.6rem; background:#ff8903; color:#fff;}
+
+.btn1 a:active,
+.btn1 input:active,
+.btn1 button:active{
+    -webkit-filter:brightness(.8);
+    filter:brightness(.8);
+}
+
+.btn2 a,
+.btn2 a:active,
+.btn2 input,
+.btn2 button{ padding-top:6px; padding-bottom:6px; font-size:1.2rem; background:#115740; color:#fff;}
+
+.btn2 a:active,
+.btn2 input:active,
+.btn2 button:active{
+    -webkit-filter:brightness(.8);
+    filter:brightness(.8);
+}
+
+.tb_form{padding:15px 0}
+.tb_form table{width:100%}
+.tb_form th,
+.tb_form td{padding:5px 0;vertical-align:top;line-height:24px}
+.tb_form th{ width:30%; font-family:Helvetica,Arial,Mingliu,sans-serif}
+
+.tb_content,
+.detailarea table{ width:100%; border-collapse:collapse; margin-bottom:15px;}
+.tb_content th,
+.tb_content td,
+.detailarea th,
+.detailarea td{ padding:10px 15px; border:#e1e1e1 1px solid;}
+.tb_content th,
+.detailarea th{ background:#f4f4f4;}
+.detailarea thead{ background:#eee}
+.detailarea thead th{ font-weight:bold}
+
+.owl-dots { position:absolute; left:0; width:100%; bottom:0; text-align: center; -webkit-tap-highlight-color: transparent; }
+.owl-dots .owl-dot { display: inline-block; zoom: 1; *display: inline; }
+.owl-dots .owl-dot span { width: 10px; height: 10px; margin: 5px 7px; background: #D6D6D6; display: block; border-radius: 30px;
+    -webkit-backface-visibility: visible;
+    -webkit-transition: opacity 200ms ease;
+    -moz-transition: opacity 200ms ease;
+    -ms-transition: opacity 200ms ease;
+    -o-transition: opacity 200ms ease;
+    transition: opacity 200ms ease;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+ }
+.owl-dots .owl-dot.active span,.owl-dots .owl-dot:hover span { background: #869791; }
+
+.tophold{ height:54px;}
+
+.toparea{ padding:50px 20px 35px; border-top:#b9975b 4px solid; background:#fff;}
+.toparea h1{ font-size:32px; font-family:baskerville; text-transform:uppercase; text-align:center; color:#22513d}
+.toparea h2{ font-size:26px; text-align:center; color:#22513d; font-weight:800}
+.toparea h2 a{ color:#22513d}
+.toparea h2 a:hover{ text-decoration:none}
+
+.navarea{ position:fixed; z-index:999; top:0; left:0; width:100%; overflow:hidden; border-bottom:#b9975b 4px solid;
+    background: #115740; /* Old browsers */
+    background:rgba(17,87,64,.7);
+    -webkit-backdrop-filter:saturate(180%) blur(10px);
+}
+.navarea .inner{ max-width:$content-width; margin:0 auto}
+.navarea .lk{ display:block; float:left; padding:15px 20px; color:#fff}
+.navarea .lk:hover,
+.navarea .lk:active,
+.navarea .select{ background-color:#163029; background-color:rgba(22,48,41,.7);
+    -webkit-backdrop-filter:saturate(180%) blur(10px);
+}
+
+.bannerarea{}
+.bannerarea .item{ position:relative;}
+.bannerarea .txtarea{ opacity:0; position:absolute; left:0; top:0; width:100%; height:100%;
+    -webkit-transition:opacity .5s ease-in-out;
+}
+.bannerarea .txtarea .inner{ width:100%; padding-top:50px; max-width:$content-width; margin:0 auto;}
+.bannerarea .txtarea .inner .con{ float:left; background:rgba(0,0,0,.7); color:#fff; padding:30px; font-size:18px}
+
+.notelist .item{ margin-bottom:10px}
+.notelist .item a{ color:#22513d}
+
+.commentarea{ padding:30px 20px 50px; background:#fff;}
+.commentarea .inner{ max-width:$content-width; margin:0 auto;}
+.commentarea h3{ color:#b58e5b; font-size:24px; text-transform:uppercase; font-weight:bold; line-height:1.2em}
+
+.detailarea{ padding:30px 20px 50px; background:#fff; word-wrap:break-word}
+.detailarea .inner{ max-width:$content-width; margin:0 auto;}
+.detailarea h1{ color:#b58e5b; font-size:30px; text-transform:uppercase; font-weight:bold; line-height:1.2em}
+.detailarea h3{ color:#b58e5b; font-size:24px; text-transform:uppercase; font-weight:bold; line-height:1.2em}
+.detailarea .info{ margin-bottom:30px}
+
+.detailarea .content h1,
+.detailarea .content h2,
+.detailarea .content h3,
+.detailarea .content h4,
+.detailarea .content h5,
+.detailarea .content h6{ color:#333; font-size:16px; font-weight:bold; line-height:1.2em; padding-top:1em; margin-bottom:1em; text-transform:uppercase;}
+
+.detailarea .content h1{ font-size:2.2em}
+.detailarea .content h2{ font-size:2em}
+.detailarea .content h3{ font-size:1.8em}
+.detailarea .content h4{ font-size:1.4em}
+.detailarea .content h5{ font-size:1.2em}
+.detailarea .content h6{ font-size:1em}
+
+.detailarea .content ol{
+    list-style: decimal;
+}
+
+.detailarea .content ul{
+    list-style: disc;
+}
+
+.detailarea .content img{ margin:0 auto; display:block}
+.detailarea strong{ font-weight:bold}
+.detailarea em{ font-style:italic;}
+
+.eventarea{ padding:30px 20px 50px; background:#fff;}
+.eventarea .inner{ max-width:$content-width; margin:0 auto;}
+.eventarea h3{ color:#b58e5b; font-size:20px; text-transform:uppercase;}
+.eventlist .item{ margin-top:30px; vertical-align:top; color:#115740}
+.eventlist .item a{ color:#115740}
+.eventlist .item a:hover{ text-decoration:underline;}
+.eventlist .c1{ position:relative; float:left; text-align:center; padding:5px 15px; text-transform:uppercase;}
+.eventlist .c1:after{ content:''; position:absolute; width:7px; height:100%; top:0; right:-7px; background:#d0d3d4;}
+.eventlist .c1 .date1,
+.eventlist .c1 .date3{ font-size:14px;}
+.eventlist .c1 .date2{ font-size:30px; font-weight:300}
+.eventlist .c2{ overflow:hidden; border-left:#d0d3d4 7px solid; padding:30px 15px;}
+
+.footarea{ background:#115740; padding:20px 20px 50px; border-top:#b9975b 3px solid; color:#fbfcfc}
+.footarea h3{ text-align:center; margin-top:30px; font-size:20px}
+.footarea p{ color:#fbfcfc}
+.footarea a{ color:#e6edeb;}
+.footarea a:hover{ text-decoration:underline;}
+.wechat{ text-align:center;}
+.wechat img{ width:120px;}
+
+.owl-prev,
+.owl-next{ opacity:0; position:absolute; margin-top:-25px; top:50%; padding:15px 20px; color:#fff; display:block; text-align:center; vertical-align:middle; font-size:20px;
+    -webkit-transition:opacity .5s ease-in-out;
+}
+.owl-prev{ left:0}
+.owl-next{ right:0}
+
+@media screen and (min-width:$content-width){
+    .tophold{ display:none}
+    .navarea{ position:static;
+        background: -moz-linear-gradient(left,  #115740 32%, #277763 50%, #115740 68%); /* FF3.6+ */
+        background: -webkit-gradient(linear, left top, right top, color-stop(32%,#115740), color-stop(50%,#277763), color-stop(68%,#115740)); /* Chrome,Safari4+ */
+        background: -webkit-linear-gradient(left,  #115740 32%,#277763 50%,#115740 68%); /* Chrome10+,Safari5.1+ */
+        background: -o-linear-gradient(left,  #115740 32%,#277763 50%,#115740 68%); /* Opera 11.10+ */
+        background: -ms-linear-gradient(left,  #115740 32%,#277763 50%,#115740 68%); /* IE10+ */
+        background: linear-gradient(to right,  #115740 32%,#277763 50%,#115740 68%); /* W3C */
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#115740', endColorstr='#115740',GradientType=1 ); /* IE6-9 */
+    }
+    .bannerarea .item:hover .txtarea{ opacity:1}
+    .bannerarea:hover .owl-prev,
+    .bannerarea:hover .owl-next{ opacity:.5}
+    .bannerarea .owl-prev:hover,
+    .bannerarea .owl-next:hover{ opacity:1}
+}
+.tophold{ display:none\9}
+.navarea{ position:static\9;}

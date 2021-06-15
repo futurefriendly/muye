@@ -1,0 +1,28 @@
+<script id="dsq-count-scr" src="//fflycollege.disqus.com/count.js" async></script>
+
+<script>
+$(function(){
+    $('#carousel-nav').removeClass('select');
+    var navcount = $('#pageId').attr('title');
+    if(navcount != undefined){
+        $('.navarea #nav'+navcount).addClass('select');
+    };
+
+	$(".navarea .inner").owlCarousel({
+		dots : false,
+		autoWidth : true,
+		responsive : {
+			0 : {
+				rewind : true
+			},
+			700 : {
+				rewind : false
+			}
+		}
+	});
+});
+</script>
+
+<div class="tx_c">
+	<script type="text/javascript" src="http://tajs.qq.com/stats?sId=53540232" charset="UTF-8"></script>
+</div>
