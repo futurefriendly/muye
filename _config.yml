@@ -8,8 +8,8 @@
 # Site settings
 title: "木叶教育"
 email: "ruibin_edu@foxmail.com"
-description: "木叶教育"
-description_en: "Love Chinese tranditional culture, Love design."
+description: "厚德载物，科技向善，愿以教育浸润生命。"
+description_en: "Education shaped life."
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.muyeedu.com" # the base hostname & protocol for your site
 twitter_username: futurefriendly
