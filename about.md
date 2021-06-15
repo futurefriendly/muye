@@ -1,15 +1,13 @@
 ---
 layout: page
-title: 關於
+title: 关于
 permalink: /about.html
 ---
 
 <div id="pageId" title="5"></div>
 
-書以明志。學以致用。做關心傳統文化的互聯網人。
+木叶教育成立于2018年，依托于北京市海淀区三创政策扶植，是一支致力于消除学生与职场信息壁垒，发展职场新人职业认知与技能的创业团队。团队成员来自清华大学、北京航空航天大学、北京师范大学等，学历多为硕士及以上，平均工作经验十年，在互联网行业和教育行业拥有丰富资源。
 
 {{ site.description }}
 
 {{ site.description_en }}
-
-书院接受投稿，以markdown格式为佳，投稿方式请点击 [这里](http://futurefriendly.cn/college/college/2015/12/31/%E4%B9%A6%E9%99%A2%E6%8A%95%E7%A8%BF%E6%96%B9%E6%B3%95.html) 如有疑问，請在 [这里](http://futurefriendly.cn/college/contact.html) 反馈给我们。
