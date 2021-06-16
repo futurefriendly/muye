@@ -208,12 +208,12 @@
 @media screen and (min-width:$content-width){
     .tophold{ display:none}
     .navarea{ position:static;
-        background: -moz-linear-gradient(left,  #1d3019 32%, #277763 50%, #1d3019 68%); /* FF3.6+ */
-        background: -webkit-gradient(linear, left top, right top, color-stop(32%,#1d3019), color-stop(50%,#277763), color-stop(68%,#1d3019)); /* Chrome,Safari4+ */
-        background: -webkit-linear-gradient(left,  #1d3019 32%,#277763 50%,#1d3019 68%); /* Chrome10+,Safari5.1+ */
-        background: -o-linear-gradient(left,  #1d3019 32%,#277763 50%,#1d3019 68%); /* Opera 11.10+ */
-        background: -ms-linear-gradient(left,  #1d3019 32%,#277763 50%,#1d3019 68%); /* IE10+ */
-        background: linear-gradient(to right,  #1d3019 32%,#277763 50%,#1d3019 68%); /* W3C */
+        background: -moz-linear-gradient(left,  #1d3019 32%, #2b4924 50%, #1d3019 68%); /* FF3.6+ */
+        background: -webkit-gradient(linear, left top, right top, color-stop(32%,#1d3019), color-stop(50%,#2b4924), color-stop(68%,#1d3019)); /* Chrome,Safari4+ */
+        background: -webkit-linear-gradient(left,  #1d3019 32%,#2b4924 50%,#1d3019 68%); /* Chrome10+,Safari5.1+ */
+        background: -o-linear-gradient(left,  #1d3019 32%,#2b4924 50%,#1d3019 68%); /* Opera 11.10+ */
+        background: -ms-linear-gradient(left,  #1d3019 32%,#2b4924 50%,#1d3019 68%); /* IE10+ */
+        background: linear-gradient(to right,  #1d3019 32%,#2b4924 50%,#1d3019 68%); /* W3C */
         filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1d3019', endColorstr='#1d3019',GradientType=1 ); /* IE6-9 */
     }
     .bannerarea .item:hover .txtarea{ opacity:1}
