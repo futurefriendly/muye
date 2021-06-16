@@ -68,7 +68,7 @@
 .btn2 a,
 .btn2 a:active,
 .btn2 input,
-.btn2 button{ padding-top:6px; padding-bottom:6px; font-size:1.2rem; background:#115740; color:#fff;}
+.btn2 button{ padding-top:6px; padding-bottom:6px; font-size:1.2rem; background:#1d3019; color:#fff;}
 
 .btn2 a:active,
 .btn2 input:active,
@@ -118,7 +118,7 @@
 .toparea h2 a:hover{ text-decoration:none}
 
 .navarea{ position:fixed; z-index:999; top:0; left:0; width:100%; overflow:hidden; border-bottom:#b9975b 4px solid;
-    background: #115740; /* Old browsers */
+    background: #1d3019; /* Old browsers */
     background:rgba(17,87,64,.7);
     -webkit-backdrop-filter:saturate(180%) blur(10px);
 }
@@ -180,8 +180,8 @@
 .eventarea{ padding:30px 20px 50px; background:#fff;}
 .eventarea .inner{ max-width:$content-width; margin:0 auto;}
 .eventarea h3{ color:#b58e5b; font-size:20px; text-transform:uppercase;}
-.eventlist .item{ margin-top:30px; vertical-align:top; color:#115740}
-.eventlist .item a{ color:#115740}
+.eventlist .item{ margin-top:30px; vertical-align:top; color:#1d3019}
+.eventlist .item a{ color:#1d3019}
 .eventlist .item a:hover{ text-decoration:underline;}
 .eventlist .c1{ position:relative; float:left; text-align:center; padding:5px 15px; text-transform:uppercase;}
 .eventlist .c1:after{ content:''; position:absolute; width:7px; height:100%; top:0; right:-7px; background:#d0d3d4;}
@@ -190,7 +190,7 @@
 .eventlist .c1 .date2{ font-size:30px; font-weight:300}
 .eventlist .c2{ overflow:hidden; border-left:#d0d3d4 7px solid; padding:30px 15px;}
 
-.footarea{ background:#115740; padding:20px 20px 50px; border-top:#b9975b 3px solid; color:#fbfcfc}
+.footarea{ background:#1d3019; padding:20px 20px 50px; border-top:#b9975b 3px solid; color:#fbfcfc}
 .footarea h3{ text-align:center; margin-top:30px; font-size:20px}
 .footarea p{ color:#fbfcfc}
 .footarea a{ color:#e6edeb;}
@@ -208,13 +208,13 @@
 @media screen and (min-width:$content-width){
     .tophold{ display:none}
     .navarea{ position:static;
-        background: -moz-linear-gradient(left,  #115740 32%, #277763 50%, #115740 68%); /* FF3.6+ */
-        background: -webkit-gradient(linear, left top, right top, color-stop(32%,#115740), color-stop(50%,#277763), color-stop(68%,#115740)); /* Chrome,Safari4+ */
-        background: -webkit-linear-gradient(left,  #115740 32%,#277763 50%,#115740 68%); /* Chrome10+,Safari5.1+ */
-        background: -o-linear-gradient(left,  #115740 32%,#277763 50%,#115740 68%); /* Opera 11.10+ */
-        background: -ms-linear-gradient(left,  #115740 32%,#277763 50%,#115740 68%); /* IE10+ */
-        background: linear-gradient(to right,  #115740 32%,#277763 50%,#115740 68%); /* W3C */
-        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#115740', endColorstr='#115740',GradientType=1 ); /* IE6-9 */
+        background: -moz-linear-gradient(left,  #1d3019 32%, #277763 50%, #1d3019 68%); /* FF3.6+ */
+        background: -webkit-gradient(linear, left top, right top, color-stop(32%,#1d3019), color-stop(50%,#277763), color-stop(68%,#1d3019)); /* Chrome,Safari4+ */
+        background: -webkit-linear-gradient(left,  #1d3019 32%,#277763 50%,#1d3019 68%); /* Chrome10+,Safari5.1+ */
+        background: -o-linear-gradient(left,  #1d3019 32%,#277763 50%,#1d3019 68%); /* Opera 11.10+ */
+        background: -ms-linear-gradient(left,  #1d3019 32%,#277763 50%,#1d3019 68%); /* IE10+ */
+        background: linear-gradient(to right,  #1d3019 32%,#277763 50%,#1d3019 68%); /* W3C */
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1d3019', endColorstr='#1d3019',GradientType=1 ); /* IE6-9 */
     }
     .bannerarea .item:hover .txtarea{ opacity:1}
     .bannerarea:hover .owl-prev,
