@@ -149,19 +149,19 @@
 .detailarea .inner{ max-width:$content-width; margin:0 auto;}
 .detailarea .inner > h1,
 .detailarea .inner > h2,
-.detailarea .inner > h3{ color:#b58e5b; text-transform:uppercase; font-weight:bold; line-height:1.25em}
+.detailarea .inner > h3{ color:#b58e5b; text-transform:uppercase; font-weight:bold; line-height:1.5em}
 .detailarea .inner > h1{ font-size:1.5rem}
 .detailarea .inner > h2{ font-size:1.375rem}
 .detailarea .inner > h3{ font-size:1.25rem}
 .detailarea .info{ margin-bottom:1.75rem}
 
-.detailarea .content{ text-align:justify; font-size:.9375rem}
+.detailarea .content{ text-align:justify; font-size:.9375rem; line-height:1.5em}
 .detailarea .content h1,
 .detailarea .content h2,
 .detailarea .content h3,
 .detailarea .content h4,
 .detailarea .content h5,
-.detailarea .content h6{ color:$text-color; font-weight:bold; line-height:1.25em; padding-top:1em; margin-bottom:1em}
+.detailarea .content h6{ color:$text-color; font-weight:bold; padding-top:1em; margin-bottom:1em}
 
 .detailarea .content h1{ font-size:1.375rem}
 .detailarea .content h2{ font-size:1.25rem}
