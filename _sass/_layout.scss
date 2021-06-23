@@ -143,9 +143,15 @@
 
 .commentarea{ padding:30px 20px 50px; background:#fff;}
 .commentarea .inner{ max-width:$content-width; margin:0 auto;}
-.commentarea h3{ color:#b58e5b; font-size:24px; text-transform:uppercase; font-weight:bold; line-height:1.2em}
+.commentarea .inner{ max-width:$content-width; margin:0 auto;}
+.commentarea .inner > h1,
+.commentarea .inner > h2,
+.commentarea .inner > h3{ color:#b58e5b; text-transform:uppercase; font-weight:bold; line-height:1.5em}
+.commentarea .inner > h1{ font-size:1.5rem}
+.commentarea .inner > h2{ font-size:1.375rem}
+.commentarea .inner > h3{ font-size:1.25rem}
 
-.detailarea{ padding:30px 20px 50px; background:#fff; word-wrap:break-word}
+.detailarea{ padding:30px 20px 50px; background:#fff;}
 .detailarea .inner{ max-width:$content-width; margin:0 auto;}
 .detailarea .inner > h1,
 .detailarea .inner > h2,
@@ -229,3 +235,12 @@
 }
 .tophold{ display:none\9}
 .navarea{ position:static\9;}
+
+/* contact
+----------------------------------------------------------------*/
+
+.contact_name:{content:"翟先生"}
+.contact_tel:after{content:"010-81788186"}
+.contact_mobile:after{content:"+86-18612547186"}
+.contact_email:after{content:"ruibin_edu@foxmail.com"}
+.contact_website:after{content:"www.muyeedu.com"}
