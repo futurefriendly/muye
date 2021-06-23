@@ -10,8 +10,8 @@ title: "木叶教育"
 email: "ruibin_edu@foxmail.com"
 description: "厚德载物，科技向善，愿以教育浸润生命。"
 description_en: "Education shaped life."
-baseurl: "https://www.muyeedu.com/" # the subpath of your site, e.g. /blog
-cdnurl: "https://cdn.jsdelivr.net/gh/futurefriendly/muye/"
+baseurl: "https://www.muyeedu.com" # the subpath of your site, e.g. /blog
+cdnurl: "https://cdn.jsdelivr.net/gh/futurefriendly/muye"
 url: "https://www.muyeedu.com" # the base hostname & protocol for your site
 twitter_username: futurefriendly
 github_username:  futurefriendly
