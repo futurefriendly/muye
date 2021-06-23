@@ -142,8 +142,7 @@
 .notelist .item a{ color:#22513d}
 
 .commentarea{ padding:30px 20px 50px; background:#fff;}
-.commentarea .inner{ max-width:$content-width; margin:0 auto;}
-.commentarea .inner{ max-width:$content-width; margin:0 auto;}
+.commentarea .inner{ max-width:$content-width; margin:0 auto; min-height:15rem}
 .commentarea .inner > h1,
 .commentarea .inner > h2,
 .commentarea .inner > h3{ color:#b58e5b; text-transform:uppercase; font-weight:bold; line-height:1.5em}
@@ -152,7 +151,7 @@
 .commentarea .inner > h3{ font-size:1.25rem}
 
 .detailarea{ padding:30px 20px 50px; background:#fff;}
-.detailarea .inner{ max-width:$content-width; margin:0 auto;}
+.detailarea .inner{ max-width:$content-width; margin:0 auto; min-height:15rem}
 .detailarea .inner > h1,
 .detailarea .inner > h2,
 .detailarea .inner > h3{ color:#b58e5b; text-transform:uppercase; font-weight:bold; line-height:1.5em}
