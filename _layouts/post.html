@@ -9,6 +9,10 @@ layout: default
         	<time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%Y年%-m月%-d日" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}
         </div>
 
+        <div class="content" itemprop="articleBody">
+        	{{ content }}
+        </div>
+
         <div class="shareBox">
         	<div class="bdsharebuttonbox">
 				<a href="#" class="bds_more" data-cmd="more"></a>
@@ -18,10 +22,6 @@ layout: default
 				<a href="#" class="bds_renren" data-cmd="renren" title="分享到人人网"></a>
 				<a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a>
 			</div>
-        </div>
-
-        <div class="content" itemprop="articleBody">
-        	{{ content }}
         </div>
 
     </div>
@@ -39,12 +39,12 @@ window._bd_share_config = {
 		"bdMiniList": false,
 		"bdPic": "",
 		"bdStyle": "1",
-		"bdSize": "16"
+		"bdSize": "24"
 	},
 	"share": {},
 	"image": {
 		"viewList": ["qzone", "tsina", "tqq", "renren", "weixin"],
-		"viewText": "分享到：", "viewSize": "16"
+		"viewText": "分享到：", "viewSize": "24"
 	},
 	"selectShare": {
 		"bdContainerClass": null,
