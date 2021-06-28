@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="492px" height="212px" viewBox="0 0 492 212" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>工作簿1</title>
+    <defs>
+        <polygon id="path-1" points="0.88 0.87 8.88 0.87 8.88 8.39269531 0.88 8.39269531"></polygon>
+        <polygon id="path-3" points="0.84 0.87 11.84 0.87 11.84 8.39269531 0.84 8.39269531"></polygon>
+    </defs>
+    <g id="工作簿1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="492" height="212"></rect>
+        <text id="题目" font-family="SimSun" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="1.92" y="7.87">题目</tspan>
+        </text>
+        <text id="非常符合" font-family="SimSun" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="224.35" y="7.87">非常符合</tspan>
+        </text>
+        <text id="比较符合" font-family="SimSun" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="264.47" y="7.87">比较符合</tspan>
+        </text>
+        <text id="一般" font-family="SimSun" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="304.59" y="7.87">一般</tspan>
+        </text>
+        <text id="比较不符合" font-family="SimSun" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="342.94" y="7.87">比较不符合</tspan>
+        </text>
+        <text id="完全不符合" font-family="SimSun" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="391.91" y="7.87">完全不符合</tspan>
+        </text>
+        <g id="编组" transform="translate(440.000000, 0.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-7"></g>
+            <text id="M" mask="url(#mask-2)" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+                <tspan x="0.88" y="6.39269531">M</tspan>
+            </text>
+        </g>
+        <g id="编组" transform="translate(466.000000, 0.000000)">
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-3"></use>
+            </mask>
+            <g id="Clip-8"></g>
+            <text id="SD" mask="url(#mask-4)" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.0154" fill="#333333">
+                <tspan x="0.84" y="6.39269531">SD</tspan>
+            </text>
+        </g>
+        <text id="382" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="249.13" y="16.4226953">382</tspan>
+        </text>
+        <text id="597" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="289.25" y="16.4226953">597</tspan>
+        </text>
+        <text id="183" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="327.6" y="16.4226953">183</tspan>
+        </text>
+        <text id="14" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="380.7" y="16.4226953">14</tspan>
+        </text>
+        <text id="13" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="429.67" y="16.4226953">13</tspan>
+        </text>
+        <text id="-31.99%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="232.61" y="26.4526953">-</tspan>
+            <tspan x="235.559711" y="26.4526953">31</tspan>
+            <tspan x="243.819711" y="26.4526953" letter-spacing="0.294882">.</tspan>
+            <tspan x="246.179593" y="26.4526953">99%</tspan>
+        </text>
+        <text id="-50%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="283.35" y="26.4526953">-</tspan>
+            <tspan x="286.299711" y="26.4526953">50%</tspan>
+        </text>
+        <text id="-15.33%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="311.08" y="26.4526953">-</tspan>
+            <tspan x="314.029711" y="26.4526953">15</tspan>
+            <tspan x="322.289711" y="26.4526953" letter-spacing="0.294882">.</tspan>
+            <tspan x="324.649593" y="26.4526953">33%</tspan>
+        </text>
+        <text id="-1.17%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="364.18" y="26.4526953">-</tspan>
+            <tspan x="367.129711" y="26.4526953">1</tspan>
+            <tspan x="371.259711" y="26.4526953" letter-spacing="0.294882">.</tspan>
+            <tspan x="373.619593" y="26.4526953">17%</tspan>
+        </text>
+        <text id="-1.09%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="413.15" y="26.4526953">-</tspan>
+            <tspan x="416.099711" y="26.4526953">1</tspan>
+            <tspan x="420.229711" y="26.4526953" letter-spacing="0.294882">.</tspan>
+            <tspan x="422.589593" y="26.4526953">09%</tspan>
+        </text>
+        <text id="525" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="249.13" y="36.4826953">525</tspan>
+        </text>
+        <text id="454" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="289.25" y="36.4826953">454</tspan>
+        </text>
+        <text id="171" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="327.6" y="36.4826953">171</tspan>
+        </text>
+        <text id="27" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="380.7" y="36.4826953">27</tspan>
+        </text>
+        <text id="11" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="429.67" y="36.4826953">11</tspan>
+        </text>
+        <text id="-43.97%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="232.61" y="46.5126953">-</tspan>
+            <tspan x="235.559711" y="46.5126953">43</tspan>
+            <tspan x="243.819711" y="46.5126953" letter-spacing="0.294882">.</tspan>
+            <tspan x="246.179593" y="46.5126953">97%</tspan>
+        </text>
+        <text id="-38.02%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="272.73" y="46.5126953">-</tspan>
+            <tspan x="275.679711" y="46.5126953">38</tspan>
+            <tspan x="283.939711" y="46.5126953" letter-spacing="0.294882">.</tspan>
+            <tspan x="286.299593" y="46.5126953">02%</tspan>
+        </text>
+        <text id="-14.32%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="311.08" y="46.5126953">-</tspan>
+            <tspan x="314.029711" y="46.5126953">14</tspan>
+            <tspan x="322.289711" y="46.5126953" letter-spacing="0.294882">.</tspan>
+            <tspan x="324.649593" y="46.5126953">32%</tspan>
+        </text>
+        <text id="-2.26%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="364.18" y="46.5126953">-</tspan>
+            <tspan x="367.129711" y="46.5126953">2</tspan>
+            <tspan x="371.259711" y="46.5126953" letter-spacing="0.294882">.</tspan>
+            <tspan x="373.619593" y="46.5126953">26%</tspan>
+        </text>
+        <text id="-0.92%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="413.15" y="46.5126953">-</tspan>
+            <tspan x="416.099711" y="46.5126953">0</tspan>
+            <tspan x="420.229711" y="46.5126953" letter-spacing="0.294882">.</tspan>
+            <tspan x="422.589593" y="46.5126953">92%</tspan>
+        </text>
+        <text id="298" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="249.13" y="56.5426953">298</tspan>
+        </text>
+        <text id="513" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="289.25" y="56.5426953">513</tspan>
+        </text>
+        <text id="320" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="327.6" y="56.5426953">320</tspan>
+        </text>
+        <text id="13" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="429.67" y="56.5426953">13</tspan>
+        </text>
+        <text id="-24.96%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="232.61" y="66.5726953">-</tspan>
+            <tspan x="235.559711" y="66.5726953">24</tspan>
+            <tspan x="243.819711" y="66.5726953" letter-spacing="0.294882">.</tspan>
+            <tspan x="246.179593" y="66.5726953">96%</tspan>
+        </text>
+        <text id="-42.96%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="272.73" y="66.5726953">-</tspan>
+            <tspan x="275.679711" y="66.5726953">42</tspan>
+            <tspan x="283.939711" y="66.5726953" letter-spacing="0.294882">.</tspan>
+            <tspan x="286.299593" y="66.5726953">96%</tspan>
+        </text>
+        <text id="-26.80%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="311.08" y="66.5726953">-</tspan>
+            <tspan x="314.029711" y="66.5726953">26</tspan>
+            <tspan x="322.289711" y="66.5726953" letter-spacing="0.294882">.</tspan>
+            <tspan x="324.649593" y="66.5726953">80%</tspan>
+        </text>
+        <text id="-1.09%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="413.15" y="66.5726953">-</tspan>
+            <tspan x="416.099711" y="66.5726953">1</tspan>
+            <tspan x="420.229711" y="66.5726953" letter-spacing="0.294882">.</tspan>
+            <tspan x="422.589593" y="66.5726953">09%</tspan>
+        </text>
+        <text id="171" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="249.13" y="76.6026953">171</tspan>
+        </text>
+        <text id="275" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="289.25" y="76.6026953">275</tspan>
+        </text>
+        <text id="473" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="327.6" y="76.6026953">473</tspan>
+        </text>
+        <text id="211" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="376.57" y="76.6026953">211</tspan>
+        </text>
+        <text id="49" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="429.67" y="76.6026953">49</tspan>
+        </text>
+        <text id="-14.32%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="232.61" y="86.6326953">-</tspan>
+            <tspan x="235.559711" y="86.6326953">14</tspan>
+            <tspan x="243.819711" y="86.6326953" letter-spacing="0.294882">.</tspan>
+            <tspan x="246.179593" y="86.6326953">32%</tspan>
+        </text>
+        <text id="-23.03%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="272.73" y="86.6326953">-</tspan>
+            <tspan x="275.679711" y="86.6326953">23</tspan>
+            <tspan x="283.939711" y="86.6326953" letter-spacing="0.294882">.</tspan>
+            <tspan x="286.299593" y="86.6326953">03%</tspan>
+        </text>
+        <text id="-39.61%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="311.08" y="86.6326953">-</tspan>
+            <tspan x="314.029711" y="86.6326953">39</tspan>
+            <tspan x="322.289711" y="86.6326953" letter-spacing="0.294882">.</tspan>
+            <tspan x="324.649593" y="86.6326953">61%</tspan>
+        </text>
+        <text id="-17.67%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="360.05" y="86.6326953">-</tspan>
+            <tspan x="362.999711" y="86.6326953">17</tspan>
+            <tspan x="371.259711" y="86.6326953" letter-spacing="0.294882">.</tspan>
+            <tspan x="373.619593" y="86.6326953">67%</tspan>
+        </text>
+        <text id="-4.10%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="413.15" y="86.6326953">-</tspan>
+            <tspan x="416.099711" y="86.6326953">4</tspan>
+            <tspan x="420.229711" y="86.6326953" letter-spacing="0.294882">.</tspan>
+            <tspan x="422.589593" y="86.6326953">10%</tspan>
+        </text>
+        <text id="188" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="249.13" y="96.6626953">188</tspan>
+        </text>
+        <text id="246" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="289.25" y="96.6626953">246</tspan>
+        </text>
+        <text id="415" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="327.6" y="96.6626953">415</tspan>
+        </text>
+        <text id="238" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="376.57" y="96.6626953">238</tspan>
+        </text>
+        <text id="85" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="429.67" y="96.6626953">85</tspan>
+        </text>
+        <text id="-15.75%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="232.61" y="106.692695">-</tspan>
+            <tspan x="235.559711" y="106.692695">15</tspan>
+            <tspan x="243.819711" y="106.692695" letter-spacing="0.294882">.</tspan>
+            <tspan x="246.179593" y="106.692695">75%</tspan>
+        </text>
+        <text id="-20.60%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="272.73" y="106.692695">-</tspan>
+            <tspan x="275.679711" y="106.692695">20</tspan>
+            <tspan x="283.939711" y="106.692695" letter-spacing="0.294882">.</tspan>
+            <tspan x="286.299593" y="106.692695">60%</tspan>
+        </text>
+        <text id="-34.76%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="311.08" y="106.692695">-</tspan>
+            <tspan x="314.029711" y="106.692695">34</tspan>
+            <tspan x="322.289711" y="106.692695" letter-spacing="0.294882">.</tspan>
+            <tspan x="324.649593" y="106.692695">76%</tspan>
+        </text>
+        <text id="-19.93%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="360.05" y="106.692695">-</tspan>
+            <tspan x="362.999711" y="106.692695">19</tspan>
+            <tspan x="371.259711" y="106.692695" letter-spacing="0.294882">.</tspan>
+            <tspan x="373.619593" y="106.692695">93%</tspan>
+        </text>
+        <text id="-7.12%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="413.15" y="106.692695">-</tspan>
+            <tspan x="416.099711" y="106.692695">7</tspan>
+            <tspan x="420.229711" y="106.692695" letter-spacing="0.294882">.</tspan>
+            <tspan x="422.589593" y="106.692695">12%</tspan>
+        </text>
+        <text id="318" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="249.13" y="116.722695">318</tspan>
+        </text>
+        <text id="321" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="289.25" y="116.722695">321</tspan>
+        </text>
+        <text id="333" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="327.6" y="116.722695">333</tspan>
+        </text>
+        <text id="157" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="376.57" y="116.722695">157</tspan>
+        </text>
+        <text id="55" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="429.67" y="116.722695">55</tspan>
+        </text>
+        <text id="-26.63%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="232.61" y="126.752695">-</tspan>
+            <tspan x="235.559711" y="126.752695">26</tspan>
+            <tspan x="243.819711" y="126.752695" letter-spacing="0.294882">.</tspan>
+            <tspan x="246.179593" y="126.752695">63%</tspan>
+        </text>
+        <text id="-26.88%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="272.73" y="126.752695">-</tspan>
+            <tspan x="275.679711" y="126.752695">26</tspan>
+            <tspan x="283.939711" y="126.752695" letter-spacing="0.294882">.</tspan>
+            <tspan x="286.299593" y="126.752695">88%</tspan>
+        </text>
+        <text id="-27.89%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="311.08" y="126.752695">-</tspan>
+            <tspan x="314.029711" y="126.752695">27</tspan>
+            <tspan x="322.289711" y="126.752695" letter-spacing="0.294882">.</tspan>
+            <tspan x="324.649593" y="126.752695">89%</tspan>
+        </text>
+        <text id="-13.15%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="360.05" y="126.752695">-</tspan>
+            <tspan x="362.999711" y="126.752695">13</tspan>
+            <tspan x="371.259711" y="126.752695" letter-spacing="0.294882">.</tspan>
+            <tspan x="373.619593" y="126.752695">15%</tspan>
+        </text>
+        <text id="-4.61%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="413.15" y="126.752695">-</tspan>
+            <tspan x="416.099711" y="126.752695">4</tspan>
+            <tspan x="420.229711" y="126.752695" letter-spacing="0.294882">.</tspan>
+            <tspan x="422.589593" y="126.752695">61%</tspan>
+        </text>
+        <text id="137" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="249.13" y="136.782695">137</tspan>
+        </text>
+        <text id="225" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="289.25" y="136.782695">225</tspan>
+        </text>
+        <text id="431" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="327.6" y="136.782695">431</tspan>
+        </text>
+        <text id="286" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="376.57" y="136.782695">286</tspan>
+        </text>
+        <text id="109" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="425.54" y="136.782695">109</tspan>
+        </text>
+        <text id="-11.47%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="232.61" y="146.812695">-</tspan>
+            <tspan x="235.559711" y="146.812695">11</tspan>
+            <tspan x="243.513187" y="146.812695" letter-spacing="0.294882">.</tspan>
+            <tspan x="245.873069" y="146.812695">47%</tspan>
+        </text>
+        <text id="-18.84%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="272.73" y="146.812695">-</tspan>
+            <tspan x="275.679711" y="146.812695">18</tspan>
+            <tspan x="283.939711" y="146.812695" letter-spacing="0.294882">.</tspan>
+            <tspan x="286.299593" y="146.812695">84%</tspan>
+        </text>
+        <text id="-36.10%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="311.08" y="146.812695">-</tspan>
+            <tspan x="314.029711" y="146.812695">36</tspan>
+            <tspan x="322.289711" y="146.812695" letter-spacing="0.294882">.</tspan>
+            <tspan x="324.649593" y="146.812695">10%</tspan>
+        </text>
+        <text id="-23.95%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="360.05" y="146.812695">-</tspan>
+            <tspan x="362.999711" y="146.812695">23</tspan>
+            <tspan x="371.259711" y="146.812695" letter-spacing="0.294882">.</tspan>
+            <tspan x="373.619593" y="146.812695">95%</tspan>
+        </text>
+        <text id="-9.13%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="413.15" y="146.812695">-</tspan>
+            <tspan x="416.099711" y="146.812695">9</tspan>
+            <tspan x="420.229711" y="146.812695" letter-spacing="0.294882">.</tspan>
+            <tspan x="422.589593" y="146.812695">13%</tspan>
+        </text>
+        <text id="114" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="249.13" y="156.842695">114</tspan>
+        </text>
+        <text id="196" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="289.25" y="156.842695">196</tspan>
+        </text>
+        <text id="422" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="327.6" y="156.842695">422</tspan>
+        </text>
+        <text id="315" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="376.57" y="156.842695">315</tspan>
+        </text>
+        <text id="138" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="425.54" y="156.842695">138</tspan>
+        </text>
+        <text id="-9.55%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="236.74" y="166.872695">-</tspan>
+            <tspan x="239.689711" y="166.872695">9</tspan>
+            <tspan x="243.819711" y="166.872695" letter-spacing="0.294882">.</tspan>
+            <tspan x="246.179593" y="166.872695">55%</tspan>
+        </text>
+        <text id="-16.42%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="272.73" y="166.872695">-</tspan>
+            <tspan x="275.679711" y="166.872695">16</tspan>
+            <tspan x="283.939711" y="166.872695" letter-spacing="0.294882">.</tspan>
+            <tspan x="286.299593" y="166.872695">42%</tspan>
+        </text>
+        <text id="-35.34%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="311.08" y="166.872695">-</tspan>
+            <tspan x="314.029711" y="166.872695">35</tspan>
+            <tspan x="322.289711" y="166.872695" letter-spacing="0.294882">.</tspan>
+            <tspan x="324.649593" y="166.872695">34%</tspan>
+        </text>
+        <text id="-26.38%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="360.05" y="166.872695">-</tspan>
+            <tspan x="362.999711" y="166.872695">26</tspan>
+            <tspan x="371.259711" y="166.872695" letter-spacing="0.294882">.</tspan>
+            <tspan x="373.619593" y="166.872695">38%</tspan>
+        </text>
+        <text id="-11.56%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="409.02" y="166.872695">-</tspan>
+            <tspan x="411.969711" y="166.872695">11</tspan>
+            <tspan x="419.923187" y="166.872695" letter-spacing="0.294882">.</tspan>
+            <tspan x="422.283069" y="166.872695">56%</tspan>
+        </text>
+        <text id="178" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="249.13" y="176.902695">178</tspan>
+        </text>
+        <text id="242" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="289.25" y="176.902695">242</tspan>
+        </text>
+        <text id="340" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="327.6" y="176.902695">340</tspan>
+        </text>
+        <text id="266" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="376.57" y="176.902695">266</tspan>
+        </text>
+        <text id="160" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="425.54" y="176.902695">160</tspan>
+        </text>
+        <text id="-14.91%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="232.61" y="186.932695">-</tspan>
+            <tspan x="235.559711" y="186.932695">14</tspan>
+            <tspan x="243.819711" y="186.932695" letter-spacing="0.294882">.</tspan>
+            <tspan x="246.179593" y="186.932695">91%</tspan>
+        </text>
+        <text id="-20.27%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="272.73" y="186.932695">-</tspan>
+            <tspan x="275.679711" y="186.932695">20</tspan>
+            <tspan x="283.939711" y="186.932695" letter-spacing="0.294882">.</tspan>
+            <tspan x="286.299593" y="186.932695">27%</tspan>
+        </text>
+        <text id="-28.48%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="311.08" y="186.932695">-</tspan>
+            <tspan x="314.029711" y="186.932695">28</tspan>
+            <tspan x="322.289711" y="186.932695" letter-spacing="0.294882">.</tspan>
+            <tspan x="324.649593" y="186.932695">48%</tspan>
+        </text>
+        <text id="-22.28%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="360.05" y="186.932695">-</tspan>
+            <tspan x="362.999711" y="186.932695">22</tspan>
+            <tspan x="371.259711" y="186.932695" letter-spacing="0.294882">.</tspan>
+            <tspan x="373.619593" y="186.932695">28%</tspan>
+        </text>
+        <text id="-13.40%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="409.02" y="186.932695">-</tspan>
+            <tspan x="411.969711" y="186.932695">13</tspan>
+            <tspan x="420.229711" y="186.932695" letter-spacing="0.294882">.</tspan>
+            <tspan x="422.589593" y="186.932695">40%</tspan>
+        </text>
+        <text id="361" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="249.13" y="196.962695">361</tspan>
+        </text>
+        <text id="405" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="289.25" y="196.962695">405</tspan>
+        </text>
+        <text id="289" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="327.6" y="196.962695">289</tspan>
+        </text>
+        <text id="90" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="380.7" y="196.962695">90</tspan>
+        </text>
+        <text id="41" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="429.67" y="196.962695">41</tspan>
+        </text>
+        <text id="-30.23%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="232.61" y="206.992695">-</tspan>
+            <tspan x="235.559711" y="206.992695">30</tspan>
+            <tspan x="243.819711" y="206.992695" letter-spacing="0.294882">.</tspan>
+            <tspan x="246.179593" y="206.992695">23%</tspan>
+        </text>
+        <text id="-33.92%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="272.73" y="206.992695">-</tspan>
+            <tspan x="275.679711" y="206.992695">33</tspan>
+            <tspan x="283.939711" y="206.992695" letter-spacing="0.294882">.</tspan>
+            <tspan x="286.299593" y="206.992695">92%</tspan>
+        </text>
+        <text id="-24.20%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="311.08" y="206.992695">-</tspan>
+            <tspan x="314.029711" y="206.992695">24</tspan>
+            <tspan x="322.289711" y="206.992695" letter-spacing="0.294882">.</tspan>
+            <tspan x="324.649593" y="206.992695">20%</tspan>
+        </text>
+        <text id="-7.54%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="364.18" y="206.992695">-</tspan>
+            <tspan x="367.129711" y="206.992695">7</tspan>
+            <tspan x="371.259711" y="206.992695" letter-spacing="0.294882">.</tspan>
+            <tspan x="373.619593" y="206.992695">54%</tspan>
+        </text>
+        <text id="-3.43%" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.199066" fill="#333333">
+            <tspan x="413.15" y="206.992695">-</tspan>
+            <tspan x="416.099711" y="206.992695">3</tspan>
+            <tspan x="420.229711" y="206.992695" letter-spacing="0.294882">.</tspan>
+            <tspan x="422.589593" y="206.992695">43%</tspan>
+        </text>
+        <text id="9." font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="1.92" y="181.622695">9.</tspan>
+        </text>
+        <text id="我已经确定了未来报考的学校和专业" font-family="SimSun" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="8.41" y="182.51">我已经确定了未来报考的学校和专业</tspan>
+        </text>
+        <text id="2.98" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="449.14" y="181.622695">2</tspan>
+            <tspan x="453.27" y="181.622695" letter-spacing="0.294882">.</tspan>
+            <tspan x="455.629882" y="181.622695">98</tspan>
+        </text>
+        <text id="1.25" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="475.1" y="181.622695">1</tspan>
+            <tspan x="479.23" y="181.622695" letter-spacing="0.294882">.</tspan>
+            <tspan x="481.589882" y="181.622695">25</tspan>
+        </text>
+        <text id="10." font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="1.92" y="201.682695">10.</tspan>
+        </text>
+        <text id="如果有职业生涯规划指导方面的活动" font-family="SimSun" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="12.54" y="202.57">如果有职业生涯规划指导方面的活动</tspan>
+        </text>
+        <text id=",-" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" letter-spacing="0.0357" fill="#333333">
+            <tspan x="144.7" y="201.682695">, </tspan>
+        </text>
+        <text id="我会积极参加" font-family="SimSun" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="149.42" y="202.57">我会积极参加</tspan>
+        </text>
+        <text id="2.19" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="449.14" y="201.682695">2</tspan>
+            <tspan x="453.27" y="201.682695" letter-spacing="0.294882">.</tspan>
+            <tspan x="455.629882" y="201.682695">19</tspan>
+        </text>
+        <text id="1.06" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="475.1" y="201.682695">1</tspan>
+            <tspan x="479.23" y="201.682695" letter-spacing="0.294882">.</tspan>
+            <tspan x="481.589882" y="201.682695">06</tspan>
+        </text>
+        <text id="7." font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="1.92" y="141.502695">7.</tspan>
+        </text>
+        <text id="我对未来要从事的职业已有充分的了解" font-family="SimSun" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="8.41" y="142.39">我对未来要从事的职业已有充分的了解</tspan>
+        </text>
+        <text id="3" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="459.76" y="141.502695">3</tspan>
+        </text>
+        <text id="1.12" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="475.1" y="141.502695">1</tspan>
+            <tspan x="479.23" y="141.502695" letter-spacing="0.294882">.</tspan>
+            <tspan x="481.589882" y="141.502695">12</tspan>
+        </text>
+        <text id="8." font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="1.92" y="161.562695">8.</tspan>
+        </text>
+        <text id="我已经对未来从事的职业有充分的准备" font-family="SimSun" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="8.41" y="162.45">我已经对未来从事的职业有充分的准备</tspan>
+        </text>
+        <text id="3.13" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="449.14" y="161.562695">3</tspan>
+            <tspan x="453.27" y="161.562695" letter-spacing="0.294882">.</tspan>
+            <tspan x="455.629882" y="161.562695">13</tspan>
+        </text>
+        <text id="1.12" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="475.1" y="161.562695">1</tspan>
+            <tspan x="479.23" y="161.562695" letter-spacing="0.294882">.</tspan>
+            <tspan x="481.589882" y="161.562695">12</tspan>
+        </text>
+        <text id="5." font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="1.92" y="101.382695">5.</tspan>
+        </text>
+        <text id="我对未来职业生涯目标非常明确" font-family="SimSun" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="8.41" y="102.27">我对未来职业生涯目标非常明确</tspan>
+        </text>
+        <text id="2.8" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="453.27" y="101.382695">2</tspan>
+            <tspan x="457.4" y="101.382695" letter-spacing="0.294882">.</tspan>
+            <tspan x="459.759882" y="101.382695">8</tspan>
+        </text>
+        <text id="1.14" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="475.1" y="101.382695">1</tspan>
+            <tspan x="479.23" y="101.382695" letter-spacing="0.294882">.</tspan>
+            <tspan x="481.589882" y="101.382695">14</tspan>
+        </text>
+        <text id="6." font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="1.92" y="121.442695">6.</tspan>
+        </text>
+        <text id="我经常会考虑自己将来要从事的职业" font-family="SimSun" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="8.41" y="122.33">我经常会考虑自己将来要从事的职业</tspan>
+        </text>
+        <text id="2.41" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="449.14" y="121.442695">2</tspan>
+            <tspan x="453.27" y="121.442695" letter-spacing="0.294882">.</tspan>
+            <tspan x="455.629882" y="121.442695">41</tspan>
+        </text>
+        <text id="1.15" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="475.1" y="121.442695">1</tspan>
+            <tspan x="479.23" y="121.442695" letter-spacing="0.294882">.</tspan>
+            <tspan x="481.589882" y="121.442695">15</tspan>
+        </text>
+        <text id="3." font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="1.92" y="61.2626953">3.</tspan>
+        </text>
+        <text id="我很了解自己的能力" font-family="SimSun" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="8.41" y="62.15">我很了解自己的能力</tspan>
+        </text>
+        <text id="37-(3.1%)" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="342.94" y="61.2626953">37</tspan>
+            <tspan x="351.2" y="61.2626953" letter-spacing="0.294882"> </tspan>
+            <tspan x="353.559882" y="61.2626953" letter-spacing="0.199066">(</tspan>
+            <tspan x="356.509593" y="61.2626953">3</tspan>
+            <tspan x="360.639593" y="61.2626953" letter-spacing="0.294882">.</tspan>
+            <tspan x="362.999475" y="61.2626953">1</tspan>
+            <tspan x="367.129475" y="61.2626953" letter-spacing="0.199066">%</tspan>
+            <tspan x="374.209185" y="61.2626953">)</tspan>
+        </text>
+        <text id="2.11" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="449.14" y="61.2626953">2</tspan>
+            <tspan x="453.27" y="61.2626953" letter-spacing="0.294882">.</tspan>
+            <tspan x="455.629882" y="61.2626953">11</tspan>
+        </text>
+        <text id="0.85" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="475.1" y="61.2626953">0</tspan>
+            <tspan x="479.23" y="61.2626953" letter-spacing="0.294882">.</tspan>
+            <tspan x="481.589882" y="61.2626953">85</tspan>
+        </text>
+        <text id="4." font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="1.92" y="81.3226953">4.</tspan>
+        </text>
+        <text id="我很了解职业生涯规划的内涵" font-family="SimSun" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="8.41" y="82.21">我很了解职业生涯规划的内涵</tspan>
+        </text>
+        <text id="2.73" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="449.14" y="81.3226953">2</tspan>
+            <tspan x="453.27" y="81.3226953" letter-spacing="0.294882">.</tspan>
+            <tspan x="455.629882" y="81.3226953">73</tspan>
+        </text>
+        <text id="1.04" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="475.1" y="81.3226953">1</tspan>
+            <tspan x="479.23" y="81.3226953" letter-spacing="0.294882">.</tspan>
+            <tspan x="481.589882" y="81.3226953">04</tspan>
+        </text>
+        <text id="1." font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="1.92" y="21.1426953">1.</tspan>
+        </text>
+        <text id="我很了解自己的个性" font-family="SimSun" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="8.41" y="22.03">我很了解自己的个性</tspan>
+        </text>
+        <text id="1.89" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="449.14" y="21.1426953">1</tspan>
+            <tspan x="453.27" y="21.1426953" letter-spacing="0.294882">.</tspan>
+            <tspan x="455.629882" y="21.1426953">89</tspan>
+        </text>
+        <text id="0.78" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="475.1" y="21.1426953">0</tspan>
+            <tspan x="479.23" y="21.1426953" letter-spacing="0.294882">.</tspan>
+            <tspan x="481.589882" y="21.1426953">78</tspan>
+        </text>
+        <text id="2." font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="1.92" y="41.2026953">2.</tspan>
+        </text>
+        <text id="我很了解自己的兴趣爱好" font-family="SimSun" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="8.41" y="42.09">我很了解自己的兴趣爱好</tspan>
+        </text>
+        <text id="1.78" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="449.14" y="41.2026953">1</tspan>
+            <tspan x="453.27" y="41.2026953" letter-spacing="0.294882">.</tspan>
+            <tspan x="455.629882" y="41.2026953">78</tspan>
+        </text>
+        <text id="0.84" font-family="TimesNewRomanPSMT, Times New Roman" font-size="8.26" font-weight="normal" fill="#333333">
+            <tspan x="475.1" y="41.2026953">0</tspan>
+            <tspan x="479.23" y="41.2026953" letter-spacing="0.294882">.</tspan>
+            <tspan x="481.589882" y="41.2026953">84</tspan>
+        </text>
+        <polygon id="Fill-150" fill="#000000" points="223.17 60.46 341.76 60.46 341.76 61.05 223.17 61.05"></polygon>
+        <polygon id="Fill-152" fill="#000000" points="0.15 0.28 0.74 0.28 0.74 211.5 0.15 211.5"></polygon>
+        <polygon id="Fill-154" fill="#000000" points="222.58 0.87 223.17 0.87 223.17 211.5 222.58 211.5"></polygon>
+        <polygon id="Fill-156" fill="#000000" points="262.7 0.87 263.29 0.87 263.29 211.5 262.7 211.5"></polygon>
+        <polygon id="Fill-158" fill="#000000" points="302.82 0.87 303.41 0.87 303.41 211.5 302.82 211.5"></polygon>
+        <polygon id="Fill-160" fill="#000000" points="341.17 0.87 341.76 0.87 341.76 211.5 341.17 211.5"></polygon>
+        <polygon id="Fill-162" fill="#000000" points="390.14 0.87 390.73 0.87 390.73 211.5 390.14 211.5"></polygon>
+        <polygon id="Fill-164" fill="#000000" points="439.11 0.87 439.7 0.87 439.7 211.5 439.11 211.5"></polygon>
+        <polygon id="Fill-166" fill="#000000" points="465.07 0.87 465.66 0.87 465.66 211.5 465.07 211.5"></polygon>
+        <polygon id="Fill-168" fill="#000000" points="491.03 0.87 491.62 0.87 491.62 211.5 491.03 211.5"></polygon>
+        <polygon id="Fill-170" fill="#000000" points="0.74 0.28 491.62 0.28 491.62 0.87 0.74 0.87"></polygon>
+        <polygon id="Fill-172" fill="#000000" points="0.74 10.31 491.62 10.31 491.62 10.9 0.74 10.9"></polygon>
+        <polygon id="Fill-174" fill="#000000" points="223.17 20.34 439.7 20.34 439.7 20.93 223.17 20.93"></polygon>
+        <polygon id="Fill-176" fill="#000000" points="0.74 30.37 491.62 30.37 491.62 30.96 0.74 30.96"></polygon>
+        <polygon id="Fill-178" fill="#000000" points="223.17 40.4 439.7 40.4 439.7 40.99 223.17 40.99"></polygon>
+        <polygon id="Fill-180" fill="#000000" points="0.74 50.43 491.62 50.43 491.62 51.02 0.74 51.02"></polygon>
+        <polygon id="Fill-182" fill="#000000" points="390.73 60.46 439.7 60.46 439.7 61.05 390.73 61.05"></polygon>
+        <polygon id="Fill-184" fill="#000000" points="0.74 70.49 491.62 70.49 491.62 71.08 0.74 71.08"></polygon>
+        <polygon id="Fill-186" fill="#000000" points="223.17 80.52 439.7 80.52 439.7 81.11 223.17 81.11"></polygon>
+        <polygon id="Fill-188" fill="#000000" points="0.74 90.55 491.62 90.55 491.62 91.14 0.74 91.14"></polygon>
+        <polygon id="Fill-190" fill="#000000" points="223.17 100.58 439.7 100.58 439.7 101.17 223.17 101.17"></polygon>
+        <polygon id="Fill-192" fill="#000000" points="0.74 110.61 491.62 110.61 491.62 111.2 0.74 111.2"></polygon>
+        <polygon id="Fill-194" fill="#000000" points="223.17 120.64 439.7 120.64 439.7 121.23 223.17 121.23"></polygon>
+        <polygon id="Fill-196" fill="#000000" points="0.74 130.67 491.62 130.67 491.62 131.26 0.74 131.26"></polygon>
+        <polygon id="Fill-198" fill="#000000" points="223.17 140.7 439.7 140.7 439.7 141.29 223.17 141.29"></polygon>
+        <polygon id="Fill-200" fill="#000000" points="0.74 150.73 491.62 150.73 491.62 151.32 0.74 151.32"></polygon>
+        <polygon id="Fill-202" fill="#000000" points="223.17 160.76 439.7 160.76 439.7 161.35 223.17 161.35"></polygon>
+        <polygon id="Fill-204" fill="#000000" points="0.74 170.79 491.62 170.79 491.62 171.38 0.74 171.38"></polygon>
+        <polygon id="Fill-206" fill="#000000" points="223.17 180.82 439.7 180.82 439.7 181.41 223.17 181.41"></polygon>
+        <polygon id="Fill-208" fill="#000000" points="0.74 190.85 491.62 190.85 491.62 191.44 0.74 191.44"></polygon>
+        <polygon id="Fill-210" fill="#000000" points="223.17 200.88 439.7 200.88 439.7 201.47 223.17 201.47"></polygon>
+        <polygon id="Fill-212" fill="#000000" points="0.74 210.91 491.62 210.91 491.62 211.5 0.74 211.5"></polygon>
+    </g>
+</svg>
